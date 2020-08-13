@@ -217,6 +217,7 @@ Grocery List
   text-transform: uppercase;
   border: 2px solid var(--clr-primary-1) ;
   padding: 3px;
+  font-size: 1.3rem;
 }
 .form-control {
   display: flex;
